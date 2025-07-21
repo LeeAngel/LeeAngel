@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Angel Lee
 
 <!--
 **LeeAngel/LeeAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- **Platform Engineer** at IBM | **Data & AI** | **Financial Services** | **CMU Alum**
+- Linkedin: [![Linkedin: ytchou](https://img.shields.io/badge/-angellee0102-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/angellee0102/)](https://www.linkedin.com/in/angellee0102/) 
+
